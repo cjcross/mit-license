@@ -1,4 +1,6 @@
 # A permalink for your MIT License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fmit-license.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fmit-license?ref=badge_shield)
+
 
 I always forget to add an MIT-license.txt file to my projects, so I wanted to link to a single resource that would always be up to date and would always have my details online.
 
@@ -28,6 +30,9 @@ curl -d'{ "copyright": "Remy Sharp", "url": "http://remysharp.com", "email": "me
 If there's any problems in the automated creation, send me a pull request and it'll go live soon after.
 
 Equally if you need to update the user file to include more details that you didn't initially include (extra fields in the next section) you will need to send a pull request on that `user.json` file via GitHub.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fmit-license.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fmit-license?ref=badge_large)
 
 ## The user.json file
 
